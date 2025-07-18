@@ -1,0 +1,5 @@
+Analyzing Castorice in Honkai: Star Rail v3.2 — Banner Sales, Character Distribution & Sentiment Toward Global Passive Kit
+
+Sentiment Analysis of Honkai: Star Rail v3.2 Quantum Character Castorice Based on Player Opinions
+
+Sentiment Analysis of Castorice's Kit in Honkai: Star Rail 3.2 Using Transformer Models
